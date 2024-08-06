@@ -1,0 +1,37 @@
+,Parking Lot,Address,Spots,EV Chargers,Number of EV Chargers,Type of EV Charger,Hours,Days,latitude,longitude,closest_address
+0,AON Center Parking,"386 E. Lake St.
+Chicago, IL 60601",678,,,,24,7,41.885756,-87.6277696,"20 East RandolphChicago, IL 60601"
+1,Swissotel Chicago,"323 E Wacker Drive
+Chicago, IL 60601",180,,,,24,7,41.8873452,-87.6195255,"333 East Benton
+Chicago, IL 60601"
+2,Village Market,"333 East Benton
+Chicago, IL 60601",155,,,,24,7,41.8851588,-87.6188454,"400 East Randolph,
+Chicago, IL 60601"
+3,400 Randolph,"400 East Randolph,
+Chicago, IL 60601",165,,,,24,7,41.8849865,-87.6165376,"333 East Benton
+Chicago, IL 60601"
+4,Millenium Park Garage,"6 South Columbus Dr.
+Chicago, IL 60601",3800,,,,24,7,41.8676015,-87.6204227,"325 S. Michigan Ave.
+Chicago, IL 60604"
+5,Millenium Lakeside,"5 South Columbus Dr.
+Chicago, IL 60601",3850,,,,24,7,41.8810344,-87.6222783,"25 North Michigan Ave., Chicago, IL, 60602"
+6,Grant Park South,"325 S. Michigan Ave.
+Chicago, IL 60604",1300,,,,24,7,41.8778467,-87.6240934,"55 East Adams Street, Chicago, 60603"
+7,Grant Park North,"25 North Michigan Ave., Chicago, IL, 60602",1850,,,,24,7,41.8836196,-87.6242233,"181 North ClarkChicago, IL 60601"
+8,60 East Lake Street,"60 East Lake Streetchicago, IL 60601",200,,,,24,7,41.885803,-87.625797,"386 E. Lake St.
+Chicago, IL 60601"
+9,55 East Monroe,"55 East Adams Street, Chicago, 60603",703,,,,24,7,41.8794475,-87.6258586,"325 S. Michigan Ave.
+Chicago, IL 60604"
+10,Wabash Randolph Self-park,"20 East RandolphChicago, IL 60601",1083,Yes,4.0,ChargePoint,24,7,41.884568,-87.627268,"386 E. Lake St.
+Chicago, IL 60601"
+11,Block 37 Mall Self Park,"127 North Dearborn, Chicago, IL, 60602",340,,,,24,7,41.883932,-87.629438,"181 North DearbornCHICAGO, IL 60601"
+12,Theater District Self Park,"181 North DearbornCHICAGO, IL 60601",981,Yes,4.0,S,24,7,41.885378,-87.629408,"386 E. Lake St.
+Chicago, IL 60601"
+13,Government Center Self Park,"181 North ClarkChicago, IL 60601",585,Yes,3.0,S,24,7,41.88531,-87.62213,"200 North ClarkCHICAGO, IL 60601"
+14,200 North Clark Self Park,"200 North ClarkCHICAGO, IL 60601",1170,Yes,4.0,S,24,7,41.88531,-87.62213,"181 North ClarkChicago, IL 60601"
+15,One Eleven Wacker,"224 North Clark Street, Chicago, IL, 60601",439,,,,24,7,41.8859377,-87.6310907,"181 North DearbornCHICAGO, IL 60601"
+16,Lake Wells Self Park,"177 North Wells Chicago, IL 60601",881,Yes,4.0,S,24,7,41.8853949,-87.6335693,"180 North Franklin St.CHICAGO, IL 60601"
+17,Lake and Franklin Self Park,"180 North Franklin St.CHICAGO, IL 60601",1136,Yes,4.0,EV PassPort,24,1 (Sunday),41.88532,-87.635474,"177 North Wells Chicago, IL 60601"
+18,Washington Franklin,"230 West WashingtonChicago, IL 60602",560,Yes,4.0,Charge Point,24,7,41.883209,-87.633859,"177 North Wells Chicago, IL 60601"
+19,111 South Wacker Self Park,"315 West Monroe, Chicago, IL, 60601",468,,,,17,7,41.8805546,-87.6356046,"230 West WashingtonChicago, IL 60602"
+20,South Loop Self Park,"318 South FederalCHICAGO, IL 60604",801,Yes,4.0,Clipper Creek,24,7,41.878095,-87.628461,"55 East Adams Street, Chicago, 60603"
